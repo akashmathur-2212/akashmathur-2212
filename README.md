@@ -1,6 +1,4 @@
 ### Hi there 👋 I am Akash Mathur
-<!--
-**akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### About Me 
 - An Electronics engineer and a post graduate in Finance. 
@@ -15,3 +13,5 @@ Earlier, I was associated with Credit Suisse’s Global Markets Client Strategy 
 🤝 I’m looking to collaborate on Data science and Artifical Intelligence Research Projects.
 
 #### Let's Connect and Learn together
+<!--
+**akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
