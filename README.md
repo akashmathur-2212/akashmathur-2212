@@ -15,8 +15,7 @@ Earlier, I was associated with **Credit Suisse**’s Global Markets Client Strat
 
 #### Let's Connect and Learn together
 
-![Linkedin](/desktop/lin.png)
-[Linkedin](https://www.linkedin.com/in/akashmathur22/)
+[Linkedin](https://www.linkedin.com/in/akashmathur22/) /
 [Kaggle](https://www.kaggle.com/akashmathur2212)
 
 <!--
