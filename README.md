@@ -14,5 +14,9 @@ Earlier, I was associated with **Credit Suisse**’s Global Markets Client Strat
 🤝 I’m looking to collaborate on **Data science and Artifical Intelligence Projects**.
 
 #### Let's Connect and Learn together
+
+[LinkedIN](https://www.linkedin.com/in/akashmathur22/)
+[Kaggle](https://www.kaggle.com/akashmathur2212)
+
 <!--
 **akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
