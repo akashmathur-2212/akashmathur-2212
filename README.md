@@ -3,7 +3,7 @@
 #### About Me 
 - An Electronics engineer and a post graduate in Finance. 
 - Passionate about solving business problems using data driven approaches and presenting it. 
-- Well versed with analytics tools like Python, R and Tableau. 
+- Well versed with analytical tools like Python, R and Tableau. 
 - Avid learner and really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
 
 #### Professional Experience
