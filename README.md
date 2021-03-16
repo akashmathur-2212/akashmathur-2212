@@ -7,7 +7,7 @@
 - Avid learner and really fascinated by Data Science/ML applications in Finance space.
 
 #### Professional Experience
-I have over 5 years of experience in the field of Data Analytics in the Banking and Finance domain. Currently, I work at **Bank of America** in the Strategy and Governance team within Global Valuation Group. My responsibility includes oversight of valuation framework, reporting, and data analytics. Final results are presented to regulators, auditors, and senior management.
+I have over 5 years of experience in the field of Data Analytics in the Banking and Finance domain. Currently, I work at **Bank of America** in the Strategy and Governance team within Global Valuation Group. Key areas include Analytics, Model Development, and oversight of valuation framework. Final results are presented to regulators, auditors, and senior management.
 
 Earlier, I was associated with **Credit Suisse**’s Global Markets Client Strategy & Management team. My work involved in delivering client intelligence/analytics to senior management to measure progress against client strategic goals.
 
