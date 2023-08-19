@@ -1,17 +1,17 @@
 ### Hi there 👋 I am Akash Mathur
 
 #### About Me 
-- An Electronics engineer and a post graduate in Finance. 
-- Passionate about solving business problems using data driven approaches and presenting it. 
-- Well versed with analytical tools like Python, R, Shiny and Tableau. 
-- Avid learner and really fascinated by Data Science/ML applications in Finance space.
+- MBA Finance and Full Stack Data Scientist/Machine Learning Engineer with 8+ years of experience in Machine/Deep Learning across the BFSI and Automotive industry.
+- Proficient in MLOps and Cloud for building end-to-end ML architecture from data pipelines to continuous integration and deployment using Azure and AWS. 
+- Student of Data Science. I am a BEGINNER, but working hard to become BETTER in the Data universe.
 
 #### Professional Experience
-I have over 5 years of experience in the field of Data Analytics in the Banking and Finance domain. Currently, I work at **Bank of America** in the Strategy and Governance team within Global Valuation Group. Key areas include Analytics, Model Development, and oversight of valuation framework. Final results are presented to regulators, auditors, and senior management.
+-	8+ years of experience in Data Science and Analytics, currently working at S&P Global, earlier worked with Bank of America and Credit Suisse.
+-	Artificial Intelligence: Built and deployed (CI/CD integrated) multiple Machine Learning products from scratch on AWS and Azure in BFSI and automotive domain. Also, proficient in building NLP applications including topic modeling, sentiment analysis, text summarization, etc.
+-	DevOps and Cloud: Proficient in taking machine learning models to a production environment using Cloud (Azure & AWS) and DevOps.
+-	Data Analysis: Constructed ETL pipelines for large-scale data using Python, Spark, and SQL, and built dashboards using Tableau and PowerBI.
 
-Earlier, I was associated with **Credit Suisse**’s Global Markets Client Strategy & Management team. My work involved in delivering client intelligence/analytics to senior management to measure progress against client strategic goals.
-
-🤝 I’m looking to collaborate on **Data science and Artifical Intelligence Projects**.
+🤝 I’m looking to collaborate on **Data Science and Artificial Intelligence Projects**.
 
 #### Let's Connect and Learn together
 
