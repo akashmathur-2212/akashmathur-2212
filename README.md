@@ -6,7 +6,7 @@
 - Student of Data Science. I am a BEGINNER, but working hard to become BETTER in the Data universe.
 
 #### Professional Experience
--	8+ years of experience in Data Science and Analytics, currently working at S&P Global, earlier worked with Bank of America and Credit Suisse.
+-	8+ years of experience in Data Science and Analytics, currently working at *S&P Global*, earlier worked with *Bank of America* and *Credit Suisse*.
 -	**Artificial Intelligence**: Built and deployed (CI/CD integrated) multiple Machine Learning products from scratch on AWS and Azure in BFSI and automotive domain. Also, proficient in building NLP applications including topic modeling, sentiment analysis, text summarization, etc.
 -	**DevOps and Cloud**: Proficient in taking machine learning models to a production environment using Cloud (Azure & AWS) and DevOps.
 -	**Data Analysis & Visualization**: Constructed ETL pipelines for large-scale data using Python, Spark, and SQL, and built dashboards using Tableau and PowerBI.
