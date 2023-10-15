@@ -1,38 +1,32 @@
 ```
 class DataScientist:
+    
+    domain = "BFSI & Automotive"
+    
     def __init__(self):
         self.name = "Akash Mathur"
-        self.role = "Data Engineer"
-        self.location = "28.6139° N, 77.2090° E"
-        self.blog = ""
+        self.role = "Data Scientist"
+        self.location = "28.4595° N, 77.0266° E"
+        self.blog = "Medium {https://akash-mathur.medium.com}"
+        self.kaggle = "Kaggle {https://www.kaggle.com/akashmathur2212}"
+        self.linkedin = "Linkedin {https://www.linkedin.com/in/akashmathur22/}"
         self.knowledge_base = [
-            "Software Enginnering",
             "Machine Learning",
             "Deep Learning",
-            "Backend Development",
+            "Cloud",
+            "DevOps",
         ]
-        self.knowledge_base.insert(0, "Cloud Devops")
 
     def say_hi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
+        print(f"Hello there, thanks for dropping by!\nI am {self.name}, I am based out of {self.location}.") 
+        print(f"I work as a {self.role} and possess extensive knowledge in {self.knowledge_base} across {self.domain} industries.\n")
+        print(f"I have wide range of interests including writing code- {self.kaggle}, and blogs - {self.blog}\n")
+        
+        knowledge=", ".join(self.knowledge_base)
+        print(f"Please feel free to reach out on {self.linkedin} if you like to collaborate across {knowledge}.")
 
-This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth.
-
-I have wide interests, but most of them are {knowledge_base}.
-
-I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
-                name=self.name,
-                location=self.location,
-                role=self.role,
-                focus=self.knowledge_base[0],
-                knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
-            )
-        )
-
-
-me = DataEngineer()
+            
+me = DataScientist()
 me.say_hi()
 ```
 
@@ -52,9 +46,6 @@ me.say_hi()
 🤝 I’m looking to collaborate on **Data Science and Artificial Intelligence Projects**.
 
 #### Let's Connect and Learn together
-
-[Linkedin](https://www.linkedin.com/in/akashmathur22/) /
-[Kaggle](https://www.kaggle.com/akashmathur2212)
 
 <!--
 **akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
