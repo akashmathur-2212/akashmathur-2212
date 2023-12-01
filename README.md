@@ -1,5 +1,5 @@
 ## Hi there. I am Akash Mathur👋
-- :nerd_face: An MBA Finance and engineering graduate with 8+ years of experience in creating AI solutions. 
+- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative, sustainable AI solutions.
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
 - :zap: I love math, programming, data science, and books.
 - 🌱 I’m addicted to learning and growing every day.
