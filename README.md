@@ -7,6 +7,7 @@
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://akash-mathur.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/akashmathur22/)
+  - :hash: [Kaggle](https://www.kaggle.com/akashmathur2212)
   - :speaker: Integral part of [Toastmasters](https://www.toastmasters.org/)
 
 ## Statistics
