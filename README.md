@@ -1,9 +1,9 @@
 ## Hi there. I am Akash Mathur👋
-- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative, sustainable AI solutions.
+- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
-- :zap: An avid reader in the areas of programming, and Artificial Intelligence.
+- :zap: An avid reader in the areas of programming and Artificial Intelligence.
 - 🌱 Devoted to continuous learning and personal growth every day.
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://akash-mathur.medium.com/).
+- :earth_africa: I am currently sharing a little bit of my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://akash-mathur.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/akashmathur22/)
