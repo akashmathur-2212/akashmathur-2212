@@ -1,17 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash Mathur
-====================================================================================================================================
-
-Senior Data Scientist
----------------------
-
-An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
-
-* 🌍  I'm based in Gurugram, India
-* ✉️  You can contact me at [akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com)
-* 🧠  I'm learning Generative AI
-* 🤝  I'm open to collaborating on AI, ML, NLP, and MLOps areas!
-  
-## Hi there. I am Akash Mathur![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there. I am Akash Mathur![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Senior Data Scientist
 ---------------------
@@ -22,7 +9,8 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
 - :zap: An avid reader in the areas of programming and Artificial Intelligence.
 - 🌱 Devoted to continuous learning and personal growth every day.
-- :earth_africa: I am currently sharing a little bit of my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
+- 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications.
+- :earth_africa: I am contributing to the community by sharing my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://akash-mathur.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/akashmathur22/)
@@ -40,9 +28,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2" alt="Recent Article 2">
 
-🤝 I’m looking to collaborate/discuss across **AI, ML, NLP, and MLOps** areas!
-
 <!--
 **akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--- https://medium.com/towards-data-science/creating-a-data-science-portfolio-bd485382f49 --->
-- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
+<!--- https://medium.com/towards-data-science/creating-a-data-science-portfolio-bd485382f49 
+- :nerd_face: An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.--->
