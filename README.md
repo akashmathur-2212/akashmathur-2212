@@ -18,16 +18,22 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
   - :speaker: Integral part of [Toastmasters](https://www.toastmasters.org/)
 - 🤝  I'm open to collaborating across Machine Learning, Deep Learning, Generative AI, and MLOps areas!
   
-### Skills
+#### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
 ## Statistics
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmathur-2212&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmathur-2212)](https://github.com/akashmathur-2212/github-readme-stats)
+<a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-stats.vercel.app/api?username=akashmathur-2212&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="akashmathur-2212's GitHub stats" /></a>
+
+<a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmathur-2212&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/akashmathur-2212" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmathur-2212&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/akashmathur-2212/LLMs-playground" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/akashmathur-2212/aws-serverless-workflows" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0" alt="Recent Article 0">
