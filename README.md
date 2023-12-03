@@ -7,8 +7,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 
 - 🌍 I'm based in Gurugram, India.
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
-- :zap: An avid reader in the areas of programming and Artificial Intelligence.
-- 🌱 Devoted to continuous learning and personal growth every day.
+- :zap: An avid reader in the areas of programming and Artificial Intelligence and devoted to continuous learning and personal growth🌱 every day.
 - 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications.
 - :earth_africa: I am contributing to the community by sharing my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
 - 📫 How to find me: 
