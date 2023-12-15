@@ -15,6 +15,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
   - :bulb: [Medium articles](https://akash-mathur.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/akashmathur22/)
   - :hash: [Kaggle](https://www.kaggle.com/akashmathur2212)
+  - [🤗 Space](https://huggingface.co/akash2212)
   - :speaker: Integral part of [Toastmasters](https://www.toastmasters.org/)
 - 🤝  I'm open to collaborating across Machine Learning, Deep Learning, Generative AI, and MLOps areas!
   
