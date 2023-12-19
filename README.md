@@ -1,4 +1,4 @@
-# Hi there. I am Akash Mathur![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there. I am [Akash Mathur](https://akashmathur-2212.github.io/) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Senior Data Scientist
 ---------------------
