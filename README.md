@@ -11,6 +11,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 - 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications.
 - :earth_africa: I am contributing to the community by sharing my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
 - 📫 How to find me: 
+  - 💼 [Portfolio](https://akashmathur-2212.github.io/)
   - ✉️ Email me on [akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com)
   - :bulb: [Medium articles](https://akash-mathur.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/akashmathur22/)
