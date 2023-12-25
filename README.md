@@ -49,6 +49,8 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 
 ---------------------
 
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashmathur-2212&bg_color=000000&color=708090&line=87CEEB&point=FFFFFF&area=true&hide_border=true&theme=react-dark)](https://github.com/akashmathur-2212/github-readme-activity-graph)
+
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1" alt="Recent Article 1">
