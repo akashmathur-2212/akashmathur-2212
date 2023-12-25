@@ -41,21 +41,22 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 
 <a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmathur-2212&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--<a href="https://github.com/akashmathur-2212" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmathur-2212&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashmathur-2212&bg_color=000000&color=FFFFFF&line=87CEEB&point=FFFFFF&area=true&hide_border=true&theme=react-dark&title_color=FFFFFF)](https://github.com/akashmathur-2212/github-readme-activity-graph)
+
 ---------------------
 
 ### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/akashmathur-2212/LLMs-playground" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/akashmathur-2212/aws-serverless-workflows" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
----------------------
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashmathur-2212&bg_color=000000&color=708090&line=87CEEB&point=FFFFFF&area=true&hide_border=true&theme=react-dark)](https://github.com/akashmathur-2212/github-readme-activity-graph)
-
+<!--
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akash-mathur/2" alt="Recent Article 2">
-
+-->
 
 <!--
 **akashmathur-2212/akashmathur-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
