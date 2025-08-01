@@ -6,7 +6,7 @@
 ### About Me
 An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
 
-- 🌍 I'm based in Gurugram, India.
+- 🌍 I'm based in Amsterdam, Netherlands.
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
 - :zap: An avid reader in the areas of programming and Artificial Intelligence and devoted to continuous learning and personal growth🌱 every day.
 - 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications.
