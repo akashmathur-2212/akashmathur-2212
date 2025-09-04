@@ -39,16 +39,39 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 
 <a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-stats.vercel.app/api?username=akashmathur-2212&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="akashmathur-2212's GitHub stats" /></a>
 
-<a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmathur-2212&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<!--<a href="https://github.com/akashmathur-2212" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmathur-2212&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
-
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashmathur-2212&bg_color=000000&color=FFFFFF&line=87CEEB&point=FFFFFF&area=true&hide_border=true&theme=react-dark&title_color=FFFFFF)](https://github.com/akashmathur-2212/github-readme-activity-graph)
-
 ---------------------
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/akashmathur-2212/LLMs-playground" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/akashmathur-2212/aws-serverless-workflows" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🚀 Top Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Deep-Learning-with-PyTorch-HuggingFace&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/akashmathur-2212/LLMs-playground">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/akashmathur-2212/aws-serverless-workflows">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/akashmathur-2212/Agents">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Agents&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
