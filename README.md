@@ -41,32 +41,30 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 
 ---------------------
 
-### Top Repositories
-
 ### 🚀 Top Repositories
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Deep-Learning-with-PyTorch-HuggingFace&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Deep-Learning-with-PyTorch-HuggingFace&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="420px" />
       </a>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/akashmathur-2212/LLMs-playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=LLMs-playground&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="420px" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/akashmathur-2212/aws-serverless-workflows">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=aws-serverless-workflows&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="420px" />
       </a>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/akashmathur-2212/Agents">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Agents&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmathur-2212&repo=Agents&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" width="420px" />
       </a>
     </td>
   </tr>
