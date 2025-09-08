@@ -45,6 +45,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 [![trophy](https://github-profile-trophy.vercel.app/?username=akashmathur-2212&theme=onedark)](https://github.com/akashmathur-2212/github-profile-trophy)
 
 ---------------------
+<!--
 ### 🚀 Top Repositories
 
 <table>
@@ -73,7 +74,7 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
     </td>
   </tr>
 </table>
-
+-->
 
 
 <!--
