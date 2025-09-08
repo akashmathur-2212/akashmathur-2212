@@ -4,12 +4,11 @@
 
 ---------------------
 ### About Me
-An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
+An MBA finance and engineering graduate with a passion to help businesses and people using AI.
 
 - 🌍 I'm based in Amsterdam, Netherlands.
 - :sunglasses: Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
-- :zap: An avid reader in the areas of programming and Artificial Intelligence and devoted to continuous learning and personal growth🌱 every day.
-- 🧠 Currently, I'm learning Generative AI and building Large Language Models (LLMs) powered applications.
+- :zap: An avid reader in the areas of programming and AI and devoted to continuous learning and personal growth🌱 every day.
 - :earth_africa: I am contributing to the community by sharing my knowledge with the world through [my blogs](https://akash-mathur.medium.com/).
 - 📫 How to find me: 
   - 💼 [Portfolio](https://akashmathur-2212.github.io/)
