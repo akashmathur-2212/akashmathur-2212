@@ -40,7 +40,11 @@ An MBA finance and engineering graduate with a passion for addressing pressing g
 <a href="http://www.github.com/akashmathur-2212"><img src="https://github-readme-stats.vercel.app/api?username=akashmathur-2212&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="akashmathur-2212's GitHub stats" /></a>
 
 ---------------------
+### 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashmathur-2212&theme=onedark)](https://github.com/akashmathur-2212/github-profile-trophy)
+
+---------------------
 ### 🚀 Top Repositories
 
 <table>
